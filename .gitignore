@@ -1,4 +1,6 @@
 *.exe
 *.o
+*.md
+*.pdf
 build/
 .vscode/
